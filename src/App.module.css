@@ -1,0 +1,19 @@
+/* .header{
+    opacity: 0;
+    transition: opacity 2s ease;
+    z-index: 200;
+    margin-bottom: 20px;
+}
+.app:hover .header{
+    opacity: 1;
+}
+.footer{
+    opacity: 0;
+    transition: opacity 2s ease;
+    z-index: 200;
+   
+    margin-top:20px;
+}
+.app:hover .footer{
+    opacity: 1;
+} */
